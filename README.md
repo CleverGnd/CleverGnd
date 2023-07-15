@@ -2,10 +2,6 @@
 
 
 
-
-
-
-
 <h3> :earth_americas:&nbsp;Entre em contato : </h3> 
 
 <p align="left">
