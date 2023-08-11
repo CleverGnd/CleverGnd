@@ -1,41 +1,40 @@
-### Hi there 👋
+## Hi there 👋
 
-
-
-<h3> :earth_americas:&nbsp;Entre em contato : </h3> 
-
-<p align="left">
-  <a href="mailto:cleversongnd@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:cleversongnd@gmail.com" /></a>
+### 🌎 Estou sempre procurando novos desafios
 
   <a href="https://www.linkedin.com/in/cleversonguandalin/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/cleversonguandalin/)https://www.linkedin.com/in/cleversonguandalin/" /></a>
-
-</p>  
-
-<br>
-<br>
+  <img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  
+  <a href="mailto:cleversongnd@gmail.com" alt="Gmail">
+  <img src="https://raw.githubusercontent.com/CleverGnd/skill-icons-news/77bb52e7ed724e437c488792dfa94146f6d48f11/icons/Gmail-Dark.svg" height="48"/></a>
 <br>
 
-### 🛠️ O que eu uso para construir
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
 
-### 🎓 Minhas competências
+---
+### 🛠️ O que eu uso para construir:
+[![O que eu uso para construir](https://skillicons.dev/icons?i=vscode,git,github,postgres,linux&perline=5)](https://github.com/CleverGnd) 
+<img src="https://raw.githubusercontent.com/CleverGnd/skill-icons-news/d7ac181e86943c54075644c19fdf75651ac39f48/icons/Jupyter-Dark.svg" width="48" height="48"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/CleverGnd/skill-icons-news/91e3a788a5b8adfea5642b3d3f76cc5aef3f49d0/icons/Colab-Dark.svg" width="48" height="48"/> <img src="https://raw.githubusercontent.com/CleverGnd/skill-icons-news/646d7753dc8fc7b5cb59d5389c000e7da2123eb1/icons/Npm.svg" height="48"/> <img src="https://raw.githubusercontent.com/CleverGnd/skill-icons-news/646d7753dc8fc7b5cb59d5389c000e7da2123eb1/icons/Trello.svg" height="48"/>
 
-#### 👩‍💻 Linguagens de programação:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+### 👩‍💻 Linguagens de programação:
+[![Linguagens de programação](https://skillicons.dev/icons?i=python,javascript&perline=5)](https://github.com/CleverGnd)
 
-### 📖 O que eu estou aprendendo
+### 🎓 Minhas competências:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> 
-      
+[![Minhas competências](https://skillicons.dev/icons?i=express,nodejs,flask&perline=5)](https://github.com/CleverGnd) <img src="https://raw.githubusercontent.com/CleverGnd/skill-icons-news/646d7753dc8fc7b5cb59d5389c000e7da2123eb1/icons/Trello.svg" height="48"/> <img src="https://raw.githubusercontent.com/CleverGnd/skill-icons-news/77bb52e7ed724e437c488792dfa94146f6d48f11/icons/Numpy-Dark.svg" height="48"/> <img src="https://raw.githubusercontent.com/CleverGnd/skill-icons-news/77bb52e7ed724e437c488792dfa94146f6d48f11/icons/Pandas-Dark.svg" height="48"/>
+
+### 💻 O que eu estou aprendendo
+
+[![Linguagens de programação](https://skillicons.dev/icons?i=html,css,aws&perline=5)](https://github.com/CleverGnd) <img src="https://raw.githubusercontent.com/CleverGnd/skill-icons-news/5457d26cf8e4e68f937eb37a712707100dac091c/icons/TypeScript.svg" width="48" height="48"/> 
+
 <br>
-<br>
-<br>
 
-<a href="https://github.com/CleverGnd?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleverGND&hide_progress=true" />
-</a>
-          
+## 📖 Meus dados aqui no GitHub
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cleversonguandalin/" alt="Linkedin">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleverGND&hide_progress=true&bg_color=242938&text_color=FFFFFF&hide_border=true&title_color=FFFFFF&border_radius=10&locale=pt-br" /></a>  
+<p>   
+
+
